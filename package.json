@@ -1,0 +1,17 @@
+{
+  "name": "bpium-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "tunnel": "node tunnel.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fastify": "^3.29.0",
+    "ngrok": "^4.3.1"
+  }
+}
